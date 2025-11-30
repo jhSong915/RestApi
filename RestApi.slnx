@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="RestApi/RestApi.csproj" Id="b4b0d662-aa14-49f4-a98a-49dc95f757a2">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
